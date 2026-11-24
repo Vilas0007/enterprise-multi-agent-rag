@@ -83,8 +83,3 @@ def render() -> None:
                             "content": f"Request failed: {error_message}",
                         }
                     )
-
-
-
-
- 
