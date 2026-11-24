@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment secrets
+.env
+.env.*
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Test and coverage output
+.coverage
+htmlcov/
